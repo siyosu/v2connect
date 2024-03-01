@@ -1,6 +1,6 @@
 {
   "name": "v2connect",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Wrapper for SMM V2 API",
   "author": "Yosua Tarida Panjaitan",
   "license": "MIT",
