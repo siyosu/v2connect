@@ -1,0 +1,27 @@
+{
+  "name": "v2connect",
+  "version": "0.1.0",
+  "description": "Wrapper for SMM V2 API",
+  "author": "Yosua Tarida Panjaitan",
+  "license": "MIT",
+  "keywords": [
+    "wrapper",
+    "smm"
+  ],
+  "main": "./dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^2.6.4",
+    "eslint": "^8.57.0",
+    "tsx": "^4.7.1",
+    "typescript": "^5.3.3"
+  }
+}
